@@ -6,7 +6,6 @@ Analisis de datos de las 4 tiendas de Alura Store para recomendar cual deberia v
 
 - `AluraStoreLatam.ipynb`: notebook principal con el analisis completo.
 - `tienda_1 .csv`, `tienda_2.csv`, `tienda_3.csv`, `tienda_4.csv`: datos de cada tienda.
-- `bNFjLsKH - alura-storechallenge.json`: export del tablero de Trello usado como referencia del reto.
 
 ## Tecnologias
 
